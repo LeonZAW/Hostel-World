@@ -42,4 +42,3 @@ Final Project for J2EE and Middleware Technology
   - 各店入住情况
   - 会员预订/消费情况
   - Hostel World财务情况
-  - 采用图表显示（可选）
